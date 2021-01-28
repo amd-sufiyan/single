@@ -4,3 +4,7 @@ Hanya demo, Jangan berharap banyak dengan Applikasi ini. Hanya test apakah bisa 
 ## Usage
 
 Tinggal di Download, Extraxt, dan Click.
+
+## Size Download
+
+Single zip file 16 Mb
